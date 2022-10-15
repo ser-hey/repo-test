@@ -1,3 +1,5 @@
+# There are basic calculation functions being stored in this file
+
 def add(x,y):
     pass
 

@@ -4,6 +4,7 @@ def add(x,y):
     pass
 
 def subtract(x,y):
+    """This function does substraction"""
     return x-y
 
 def multiply(x,y):
